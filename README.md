@@ -6,13 +6,12 @@ I'm an Analytics Engineer specializing in **data pipelines, ML deployment, and R
 I build data infrastructure that scales and ML systems that solve real problems.
 
 ### 🔭 Currently Working On
+- E-commerce Analytics Pipeline
 - RAG document intelligence system with LangChain + Pinecone
-- Churn prediction API with LLM explainability (deployed at [churn-api.onrender.com](https://churn-api.onrender.com))
-- SQL query optimization deep dives
+
 
 ### 🌱 Currently Learning
 - AWS Cloud services (targeting Cloud Practitioner certification)
-- Apache Airflow for workflow orchestration
 - Advanced system design patterns
 
 ### 💼 Looking For
@@ -33,33 +32,24 @@ skills = {
 
 ### 📊 Featured Projects
 
-#### [E-Commerce Analytics Pipeline](https://github.com/priyanka-data/ecommerce-pipeline)
+#### [E-Commerce Analytics Pipeline](https://github.com/priraw/ecommerce-analytics-ipeline)
 Production data pipeline processing 500K+ transactions | SQL optimization: 87% faster  
 **Tech:** Python, PostgreSQL, Power BI  
-⭐ 120 stars | 🔗 [Live Dashboard](powerbi.com/view/...)
+| 🔗 [Live Dashboard](powerbi.com/view/...)
 
-#### [Churn Prediction API](https://github.com/priyanka-data/churn-api)
-ML API with LLM explanations deployed to production | 87% accuracy  
-**Tech:** FastAPI, XGBoost, LLMs, Streamlit  
-⭐ 95 stars | 🔗 [Try it live](churn-api.onrender.com)
 
-#### [RAG Document Q&A System](https://github.com/priyanka-data/rag-system)
-Semantic search over 10K documents using vector embeddings  
-**Tech:** LangChain, Pinecone, OpenAI, Streamlit  
-⭐ 80 stars | 🔗 [Live Demo](rag-app.streamlit.app)
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [SQL Query Optimization: 87% Performance Improvement](https://medium.com/@priyanka-data/...)
-- [Building Production RAG Systems: Lessons Learned](https://medium.com/@priyanka-data/...)
-- [From Manufacturing to Data Engineering: My Journey](https://medium.com/@priyanka-data/...)
+- [How Agentic AI works compared to SaaS? At what Cost($$)?](https://medium.com/@pri00raw/how-agentic-ai-works-compared-to-saas-at-what-cost-1ec7cbcb48e4)
+- [From Aircraft Parts to Data Pipelines: Why I Made the Switch](https://medium.com/@pri00raw/from-aircraft-parts-to-data-pipelines-why-i-made-the-switch-5d29d7029721)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/priyanka-rawat-data)
-- 🌐 [Portfolio](https://priyanka-eng.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyanka--rawat/)
+- 🌐 [Portfolio](https://priyanka-rawat.com)
 - 📧 [Email](mailto:pri00raw@gmail.com)
-- 📝 [Blog](https://medium.com/@priyanka-data)
+- 📝 [Blog](https://medium.com/@pri00raw)
 
 ### 📈 GitHub Stats
 ![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka-data&show_icons=true&theme=radical)
