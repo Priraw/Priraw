@@ -35,7 +35,7 @@ skills = {
 #### [E-Commerce Analytics Pipeline](https://github.com/priraw/ecommerce-analytics-ipeline)
 Production data pipeline processing 500K+ transactions | SQL optimization: 87% faster  
 **Tech:** Python, PostgreSQL, Power BI  
-| 🔗 [Live Dashboard](ecommerce-analytics-dashboard.pdf)
+| 🔗 [Live Dashboard](https://github.com/Priraw/ecommerce-analytics-pipeline/blob/f50ae616a633b10c28cdaa711e91783d87d6ea31/ecommerce-analytics-dashboard.pdf)
 
 
 
