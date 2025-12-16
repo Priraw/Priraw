@@ -35,7 +35,7 @@ skills = {
 #### [E-Commerce Analytics Pipeline](https://github.com/priraw/ecommerce-analytics-ipeline)
 Production data pipeline processing 500K+ transactions | SQL optimization: 87% faster  
 **Tech:** Python, PostgreSQL, Power BI  
-| 🔗 [Live Dashboard](powerbi.com/view/...)
+| 🔗 [Live Dashboard](ecommerce-analytics-dashboard.pdf)
 
 
 
@@ -52,7 +52,7 @@ Production data pipeline processing 500K+ transactions | SQL optimization: 87% f
 - 📝 [Blog](https://medium.com/@pri00raw)
 
 ### 📈 GitHub Stats
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka-data&show_icons=true&theme=radical)
+![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priraw&show_icons=true&theme=radical)
 
 ---
 ⚡ **Fun fact:** I went from building aircraft parts to building data pipelines. 
