@@ -33,7 +33,7 @@ skills = {
 ### 📊 Featured Projects
 
 #### [Player Churn Prediction](https://github.com/Priraw/player-churn-prediction)
-AI-powered retention analytics for gaming companies | ROC-AUC: 0.93 (7-day), 0.90 (30-day)
+AI-powered retention analytics for gaming companies | ROC-AUC: 0.93 (7-day), 0.90 (30-day) 
 **Tech:** Python • XGBoost • FastAPI • React • Docker
 
 #### [E-Commerce Analytics Pipeline](https://github.com/priraw/ecommerce-analytics-ipeline)
@@ -56,7 +56,7 @@ Production data pipeline processing 500K+ transactions | SQL optimization: 87% f
 - 📝 [Blog](https://medium.com/@pri00raw)
 
 ### 📈 GitHub Stats
-[Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priraw&show_icons=true&theme=radical)
+![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priraw&show_icons=true&theme=radical)
 
 ---
 ⚡ **Fun fact:** I went from building aircraft parts to building data pipelines. 
