@@ -6,7 +6,7 @@ I'm an Analytics Engineer specializing in **data pipelines, ML deployment, and R
 I build data infrastructure that scales and ML systems that solve real problems.
 
 ### 🔭 Currently Working On
-- E-commerce Analytics Pipeline
+- Aerospace predictive maintenance system
 - RAG document intelligence system with LangChain + Pinecone
 
 
@@ -32,6 +32,10 @@ skills = {
 
 ### 📊 Featured Projects
 
+#### [Player Churn Prediction](https://github.com/Priraw/player-churn-prediction)
+AI-powered retention analytics for gaming companies | ROC-AUC: 0.93 (7-day), 0.90 (30-day)
+**Tech:** Python • XGBoost • FastAPI • React • Docker
+
 #### [E-Commerce Analytics Pipeline](https://github.com/priraw/ecommerce-analytics-ipeline)
 Production data pipeline processing 500K+ transactions | SQL optimization: 87% faster  
 **Tech:** Python, PostgreSQL, Power BI  
@@ -41,7 +45,7 @@ Production data pipeline processing 500K+ transactions | SQL optimization: 87% f
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How Agentic AI works compared to SaaS? At what Cost($$)?](https://medium.com/@pri00raw/how-agentic-ai-works-compared-to-saas-at-what-cost-1ec7cbcb48e4)
+- [2026 Predictions for Big Events and Their Astronomical Ties](https://medium.com/@pri00raw/2026-predictions-for-big-events-and-their-astronomical-ties-7a1626a2fbc3)
 - [From Aircraft Parts to Data Pipelines: Why I Made the Switch](https://medium.com/@pri00raw/from-aircraft-parts-to-data-pipelines-why-i-made-the-switch-5d29d7029721)
 <!-- BLOG-POST-LIST:END -->
 
@@ -52,7 +56,7 @@ Production data pipeline processing 500K+ transactions | SQL optimization: 87% f
 - 📝 [Blog](https://medium.com/@pri00raw)
 
 ### 📈 GitHub Stats
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priraw&show_icons=true&theme=radical)
+[Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priraw&show_icons=true&theme=radical)
 
 ---
 ⚡ **Fun fact:** I went from building aircraft parts to building data pipelines. 
