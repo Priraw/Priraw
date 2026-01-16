@@ -60,4 +60,4 @@ Production data pipeline processing 500K+ transactions | SQL optimization: 87% f
 
 ---
 ⚡ **Fun fact:** I went from building aircraft parts to building data pipelines. 
-The precision required is the same—just different tools! ✈️ → 📊
+The precision required is the same just different tools! ✈️ → 📊
