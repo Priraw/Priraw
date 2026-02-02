@@ -1,4 +1,4 @@
-# Hi, I'm Priyanka 👋
+# Hi, I'm Pri 👋
 
 ## Analytics Engineer | Building Production Data Systems
 
